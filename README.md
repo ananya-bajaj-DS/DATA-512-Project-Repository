@@ -93,27 +93,27 @@ pip install -r requirements.txt
 1. LICENSE
 2. README.md
 3. Charts
-   AQI Corr.png
-   Forecast.png
-   corrplot.png
-   extentofimpact.png
-   smokevshosp.png
-   wildfireoccurences.png
+   * AQI Corr.png
+   * Forecast.png
+   * corrplot.png
+   * extentofimpact.png
+   * smokevshosp.png
+   * wildfireoccurences.png
    
 5. Data Sources
-   *Asthma_Prevalence_in_Adults_-_CDPHE_Community_Level_Estimates_(Census_Tracts).csv
-   yearly_smoke_impacts.csv
-   yearly_smoke_impacts.json
+   * Asthma_Prevalence_in_Adults_-_CDPHE_Community_Level_Estimates_(Census_Tracts).csv
+   * yearly_smoke_impacts.csv
+   * yearly_smoke_impacts.json
 
 7. Reports
-   Visualizations and Reflection-DATA512-ANANYA.pdf (Part 1)
-   DATA512-ExtendedProject.pdf (Part 2)
-   Wildfire Impact in  Pueblo West, Colorado.pptx(Part 3)
-   Part 4 - Project Report-2.pdf (Part 4)
+   * Visualizations and Reflection-DATA512-ANANYA.pdf (Part 1)
+   * DATA512-ExtendedProject.pdf (Part 2)
+   * Wildfire Impact in  Pueblo West, Colorado.pptx(Part 3)
+   * Part 4 - Project Report-2.pdf (Part 4)
 
 9. Code Files
-   B_DATA512_Project.ipynb.zip
-   asthmaHospCorr.ipynb
+   * B_DATA512_Project.ipynb.zip
+   * asthmaHospCorr.ipynb
    
 # Reproducing the Analysis
 To replicate this analysis, adhere to the following instructions:
