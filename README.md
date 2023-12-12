@@ -26,7 +26,7 @@ Sample code for accessing the US EPA Air Quality System API
 Sample code for GeoJSON reader
 Link: https://drive.google.com/drive/folders/1OJktGAx86hvMtirCUkGnS292r-FpPvLo
 
-Link to CDPHE: [https://www.cohealthmaps.dphe.state.co.us/cdphe_community_level_estimates/]
+Link to CDPHE: [Asthma Dataset](https://www.cohealthmaps.dphe.state.co.us/cdphe_community_level_estimates/)
 # Project parts
 
 **Data Extraction:**
