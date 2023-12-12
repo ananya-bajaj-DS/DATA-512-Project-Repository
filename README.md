@@ -82,6 +82,19 @@ This histogram illustrates the distribution of wildfires based on their proximit
 
 **Explanation**: I used Darts - the Data Analytics and Retrieval Toolkit, which is a Python library specializing in time series forecasting. Within Darts, I employed the exponential smoothing model. The model utilizes exponentially decreasing weights for past observations, giving more prominence to recent data points while diminishing the impact of older ones. The library offers a user-friendly interface for model initialization, training, forecasting, and hyperparameter tuning. Exponential smoothing models, known for capturing trends and seasonality in time series data, can be easily evaluated using metrics such as mean absolute error (MAE) and mean squared error (MSE) through Darts' comprehensive set of functionalities. I conducted a forecast for the next 25 years as depicted in the chart above. 
 
+The chart depicts the correlation between hospitalizations due to asthma and smoke estimates for Pueblo County, Colorado, over various years from 2004 to 2018. There are two sets of bars representing each variable:
+Smoke Estimate: This is shown in green bars, and it seems to represent some form of measurement related to the presence or estimation of smoke in the environment. The unit of measurement is not provided, but it appears to be on the left y-axis.
+
+**Further Analysis**
+<img width="538" alt="image" src="https://github.com/ananya-bajaj-DS/DATA-512-Project-Repository/assets/121599846/fa3a2a51-6edf-4a7a-9866-10cc68965bb4">
+
+Hospitalizations: The blue bars represent the number of hospitalizations due to asthma. These seem to be directly correlated to the smoke estimate, implying that as the smoke estimate increases, the hospitalizations due to asthma also increase. The number of hospitalizations is read off the right y-axis, with values ranging from 0 to above 200.
+The x-axis represents years from 2004 to 2018, with data for each even year presented.
+From the visual representation, it appears that the years with higher smoke estimates also have higher rates of hospitalizations due to asthma. This suggests that there might be a positive correlation between the amount of smoke in the environment and the incidence of asthma hospitalizations in Pueblo County, CO.
+
+<img width="352" alt="image" src="https://github.com/ananya-bajaj-DS/DATA-512-Project-Repository/assets/121599846/9c269488-a582-424a-a08c-bdbb7b892a60">
+The heatmap indicates a low correlation (0.12) between smoke estimates and hospitalizations due to asthma in Pueblo County for 2004 - 2018, suggesting that other factors may also play a significant role in asthma hospital<img width="1119" alt="image" src="https://github.com/ananya-bajaj-DS/DATA-512-Project-Repository/assets/121599846/4015a915-ec70-4cf9-b5cc-8626965df562">
+
 # Project Structure
 The project structure includes the main data processing and analysis scripts, as well as the data visualization components. The repository also contains additional documentation and resources related to the project.
 
