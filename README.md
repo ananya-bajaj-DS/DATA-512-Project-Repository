@@ -142,7 +142,10 @@ Download the GeoJSON Files.zip from this link, extract the "USGS_Wildland_Fire_C
 Execute 'wildfire_analysis.ipynb' to generate analyses such as smoke analysis, AQI analysis, and their comparison.
 Examine the results and interpret the findings accordingly.
 
+
 # License
+
+Creative Commons License: https://creativecommons.org/licenses/by/4.0/
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
