@@ -93,7 +93,10 @@ The x-axis represents years from 2004 to 2018, with data for each even year pres
 From the visual representation, it appears that the years with higher smoke estimates also have higher rates of hospitalizations due to asthma. This suggests that there might be a positive correlation between the amount of smoke in the environment and the incidence of asthma hospitalizations in Pueblo County, CO.
 
 <img width="352" alt="image" src="https://github.com/ananya-bajaj-DS/DATA-512-Project-Repository/assets/121599846/9c269488-a582-424a-a08c-bdbb7b892a60">
-The heatmap indicates a low correlation (0.12) between smoke estimates and hospitalizations due to asthma in Pueblo County for 2004 - 2018, suggesting that other factors may also play a significant role in asthma hospital<img width="1119" alt="image" src="https://github.com/ananya-bajaj-DS/DATA-512-Project-Repository/assets/121599846/4015a915-ec70-4cf9-b5cc-8626965df562">
+
+The heatmap indicates a low correlation (0.12) between smoke estimates and hospitalizations due to asthma in Pueblo County for 2004 - 2018, suggesting that other factors may also play a significant role in asthma hospital
+
+<img width="1119" alt="image" src="https://github.com/ananya-bajaj-DS/DATA-512-Project-Repository/assets/121599846/4015a915-ec70-4cf9-b5cc-8626965df562">
 
 # Project Structure
 The project structure includes the main data processing and analysis scripts, as well as the data visualization components. The repository also contains additional documentation and resources related to the project.
