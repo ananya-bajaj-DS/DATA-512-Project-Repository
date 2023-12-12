@@ -85,6 +85,8 @@ This histogram illustrates the distribution of wildfires based on their proximit
 
 
 **Further Analysis**
+
+
 <img width="538" alt="image" src="https://github.com/ananya-bajaj-DS/DATA-512-Project-Repository/assets/121599846/fa3a2a51-6edf-4a7a-9866-10cc68965bb4">
 
 The chart depicts the correlation between hospitalizations due to asthma and smoke estimates for Pueblo County, Colorado, over various years from 2004 to 2018. There are two sets of bars representing each variable:
